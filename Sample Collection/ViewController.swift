@@ -15,7 +15,6 @@ class ViewController: UIViewController,UICollectionViewDelegate,UICollectionView
      var feed = [AnyObject]()
     
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
        
